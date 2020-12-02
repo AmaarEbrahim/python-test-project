@@ -1,3 +1,5 @@
 def thisFunction():
-  if true:
+  if True:
     print("yes!")
+  else:
+    print("no!")
